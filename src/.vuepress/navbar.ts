@@ -2,29 +2,32 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/demo/",
+  //"/demo/",
   {
-    text: "指南",
+    text: "目的地",
     icon: "lightbulb",
-    prefix: "/guide/",
+    prefix: "/destinations/",
     children: [
       {
-        text: "Bar",
+        text: "国外",
         icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "oversea/",
+        //children: ["japan", { text: "111", icon: "ellipsis", link: "" }],
+        children: ["japan", ],
       },
       {
-        text: "Foo",
+        text: "国内",
         icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "china/",
+        children: ["xiamen", "hangzhou", "shanghai", "beijing", "northwest", "chongqing", "xian", ],
       },
     ],
   },
+  /**
   {
     text: "V2 文档",
     icon: "book",
     link: "https://theme-hope.vuejs.press/zh/",
   },
+   */
 ]);

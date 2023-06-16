@@ -3,11 +3,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://skywalkervenne.cloud",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "skywalkervenne",
+    url: "https://skywalkervenne.cloud",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -21,10 +21,10 @@ export default hopeTheme({
   // navbar
   navbar,
 
-  // sidebar
-  sidebar,
+  sidebar: false,
+  //sidebar,
 
-  footer: "默认页脚",
+  footer: "闽ICP备2023005182号-1 闽公网安备 35020302035724号",
 
   displayFooter: true,
 
