@@ -106,7 +106,7 @@ highlights:
         details: 我们在/繁星坠落的山谷里/相遇
         link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
 
-      - title: 大媛
+      - title: 要是没有风，你能否听到地球在轴上转
         icon: rss
         details: 你在南方的艳阳里，大雪纷飞
         link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
@@ -117,7 +117,7 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
   - header: 现场 | Live
-    description: xxxxxxxxxxxxxx
+    description: 子泓老师说：这首歌solo的时候，要有恨意。--《I Hate Myself For Loving You》
     image: /首页/现场.jpg
     bgImage: /首页/现场.jpg
     bgImageDark: /首页/现场.jpg
@@ -147,24 +147,24 @@ highlights:
     bgImage: /首页/街头3.jpg
     bgImageDark: /首页/街头3.jpg
     highlights:
-      - title: 草莓音乐节
+      - title: 东京-清澄白河
         icon: dumbbell
-        details: 太鼓达人马頔
+        details: 清澄白河
         link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
 
-      - title: 西递黄山音乐节
+      - title: 厦门-中山路
         icon: sitemap
-        details: 负离子
+        details: xxxx
         link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
 
-      - title: 爵士黄楼
+      - title: 杭州-定安路
         icon: rss
         details: awosome
         link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
 
-      - title: RealLive
+      - title: 上海-外滩
         icon: mobile-screen
-        details: 好味道
+        details: 18年老味道
         link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html        
 
 copyright: false
