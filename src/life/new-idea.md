@@ -48,7 +48,3 @@
 
 1. 厦门国宇 
 
-![solar](/img/a1.jpg)
-
-![solar](/img/a2.jpg)
-
