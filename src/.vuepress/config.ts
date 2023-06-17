@@ -6,7 +6,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "Wandering Wind  | 随机漫步",
-  description: "testxxxx",
+  //description: "testxxxx",
 
   theme,
 
