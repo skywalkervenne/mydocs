@@ -3,6 +3,7 @@ home: true
 icon: home
 title: 首页
 heroImage: /首页/内心.jpg
+;heroFullScreen: true
 ;bgImage: /首页/绝景3.jpg
 ;bgImageDark: /首页/绝景3.jpg
 ;bgImageStyle:
@@ -11,10 +12,11 @@ heroText: 摄影自留地
 tagline: 随机漫步的傻瓜 | fool who wandered randomly
 
 highlights:
+  - color: #f0f1f2
   - header: 目的地 | Destination
-    description: 要对抗流逝，就去问候一个陌生人。对于“流浪”两字总是有着过于浪漫的遐想。总想着跑去谁也够不到的地方，没有时光流动的地方。最原始的流浪，不过只是向那乡愁的原型致敬吧。某段岁月里，我们的世界观好像是-只有做了自由的流浪者，才算是拥有完美无缺的人生。
-    bgImage: /首页/目的地1-模糊.jpeg
-    bgImageDark: /首页/目的地1-模糊.jpeg
+    description: “要一直在路上 还要热泪盈眶”。对于“流浪”两字总是有着过于浪漫的遐想。总想着跑去谁也够不到的地方，没有时光流动的地方。最原始的流浪，不过只是向那乡愁的原型致敬吧。某段岁月里，我们的世界观好像是-只有做了自由的流浪者，才算是拥有完美无缺的人生。
+    bgImage: /首页/目的地1加暗.jpg
+    bgImageDark: /首页/目的地1加暗.jpg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
@@ -45,15 +47,15 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
       - title: 杭州
         icon: clipboard-check
-        details: 第二故乡
+        details: 第二故乡 | 我们称之为路的，其实不过是彷徨。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
       - title: 上海
         icon: clipboard-check
-        details: 大上海计划
+        details: 我只记得最初只是经过你 去到别的城市 华灯初上 歌舞升平
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
       - title: 厦门
         icon: clipboard-check
-        details: 鼓浪屿是个有很多流浪猫的地方
+        details: 听见天晴 听见黑暗 听见人潮中 有妳
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
       - title: 广州
         icon: clipboard-check
@@ -77,7 +79,7 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
       - title: 南京
         icon: clipboard-check
-        details: 南京
+        details: 你离开了南京，从此没有人和我说话。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
       - title: 苏州
         icon: clipboard-check
@@ -93,15 +95,15 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check                     
   - header: 情绪人像 | Portrait
     description: 米蘭.昆德拉說：“這是一個流行離開的世界，而我們都不擅長告別”。
-    image: /首页/人像3.jpg
-    bgImage: /首页/人像2.jpg
+    ;image: /首页/人像3.jpg
+    bgImage: /首页/人像3.jpg
     ;bgImageDark: /首页/现场.jpg
     highlights:
       - title: 猫&少女
         icon: dumbbell
-        details: 猫&少女 | xxx
+        details: 只愿妳曾被这世界温柔相待
         link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
-      - title: Sitemap
+      - title: 我想和你虚度时光 比如低头看鱼 比如把茶杯留在桌子上 离开
         icon: sitemap
         details: 我们在/繁星坠落的山谷里/相遇
         link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
@@ -134,16 +136,17 @@ highlights:
 
       - title: 爵士黄楼
         icon: rss
-        details: awosome
+        details:  wonderful
         link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
 
       - title: RealLive
         icon: mobile-screen
-        details: 好味道
+        details:  “接下来我想唱首《南山南》，你们都帮我录一下，录给我最心爱的姑娘听。”
         link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
   - header: 街色巷影 | Street
-    image: /首页/街头3.jpg
+    description: 要对抗流逝，就去问候一个陌生人。城市是一个几百万人一起孤独地生活的地方。
+    ;image: /首页/街头3.jpg
     bgImage: /首页/街头3.jpg
     bgImageDark: /首页/街头3.jpg
     highlights:
@@ -159,7 +162,7 @@ highlights:
 
       - title: 杭州-定安路
         icon: rss
-        details: awosome
+        details: 一条叫百川印象的狗
         link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
 
       - title: 上海-外滩
