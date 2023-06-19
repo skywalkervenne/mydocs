@@ -32,7 +32,7 @@ highlights:
       - title: 大阪
         icon: clipboard-check
         details: 大阪
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        link: /destinations/oversea/osaka_1
       - title: 镰仓
         icon: clipboard-check
         details: 镰仓
