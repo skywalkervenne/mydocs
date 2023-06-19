@@ -13,7 +13,7 @@ export default navbar([
         icon: "lightbulb",
         prefix: "oversea/",
         //children: ["japan", { text: "111", icon: "ellipsis", link: "" }],
-        children: ["japan", ],
+        children: ["japan", "osaka_1"],
       },
       {
         text: "国内",
