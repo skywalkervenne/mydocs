@@ -9,7 +9,7 @@ heroImage: /首页/内心.jpg
 ;bgImageStyle:
   ;background-attachment: fixed
 heroText: 摄影自留地
-tagline: 随机漫步的傻瓜 | fool who wandered randomly
+tagline: 随机漫步 | fool who wandered randomly
 
 highlights:
   - color: #f0f1f2
