@@ -120,7 +120,7 @@ highlights:
 
   - header: 现场 | Live
     description: 子泓老师说：这首歌solo的时候，要有恨意。--《I Hate Myself For Loving You》
-    image: /首页/现场.jpg
+    ;image: /首页/现场.jpg
     bgImage: /首页/现场.jpg
     bgImageDark: /首页/现场.jpg
     highlights:
