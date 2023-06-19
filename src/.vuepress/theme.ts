@@ -17,7 +17,7 @@ export default hopeTheme({
   repo: "skywalkervenne/mydocs",
 
   docsDir: "src",
-  darkmode:"enable",
+  darkmode:"toggle",
   // navbar
   navbar,
 

@@ -7,7 +7,7 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: Wandering Wind
+heroText: Wandering Wind 
 tagline: 随机漫步
 
 //actions:
