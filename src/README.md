@@ -21,78 +21,30 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 东京
+      - title: 东京、横滨、镰仓
         icon: clipboard-check
-        details: 泾渭分明：里东京 | 谁能凭爱意要富士山私有
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 京都
-        icon: clipboard-check
-        details: 神明
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 大阪 | Osaka
+        details: xxxxxxxx <br> <br> [点击查看更多...]
+        link: /destinations/oversea/osaka_1
+      - title: 京都、奈良、大阪
         icon: clipboard-check
         details: 到了大阪才发现时差有一个小时 <br> <br> [点击查看更多...]
         link: /destinations/oversea/osaka_1
-      - title: 镰仓
+      - title: 北京、上海、广州、
         icon: clipboard-check
-        details: 镰仓
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 奈良
+        details: 我只记得最初只是经过你 去到别的城市 华灯初上 歌舞升平 <br> <br> [点击查看更多...]
+        link: /destinations/oversea/osaka_1
+      - title: 厦门、杭州、香港
         icon: clipboard-check
-        details: 若草山の鹿
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 香港
+        details: 第二故乡 | 我们称之为路的，其实不过是彷徨。 <br> <br> [点击查看更多...]
+        link: /destinations/oversea/osaka_1
+      - title: 南京、苏州、乌镇、西递
         icon: clipboard-check
-        details: 白天的庙街
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 杭州
+        details: 一生痴绝处，无梦到徽州 <br> <br> [点击查看更多...]
+        link: /destinations/oversea/osaka_1
+      - title: 重庆、西安、敦煌
         icon: clipboard-check
-        details: 第二故乡 | 我们称之为路的，其实不过是彷徨。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 上海
-        icon: clipboard-check
-        details: 我只记得最初只是经过你 去到别的城市 华灯初上 歌舞升平
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 厦门
-        icon: clipboard-check
-        details: 听见天晴 听见黑暗 听见人潮中 有妳
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 广州
-        icon: clipboard-check
-        details: 广州
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check        
-      - title: 北京
-        icon: clipboard-check
-        details: 北京
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 西安
-        icon: clipboard-check
-        details: 西安
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 重庆
-        icon: clipboard-check
-        details: 重庆
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 敦煌
-        icon: clipboard-check
-        details: 敦煌
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 南京
-        icon: clipboard-check
-        details: 你离开了南京，从此没有人和我说话。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 苏州
-        icon: clipboard-check
-        details: 苏州
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check   
-      - title: 乌镇
-        icon: clipboard-check
-        details: 乌镇
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check    
-      - title: 西递
-        icon: clipboard-check
-        details: 一生痴绝处，无梦到徽州
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check                     
+        details: xxxxxx [点击查看更多...]
+        link: /destinations/oversea/osaka_1           
   - header: 情绪人像 | Portrait
     description: 米蘭.昆德拉說：“這是一個流行離開的世界，而我們都不擅長告別”。
     ;image: /首页/人像3.jpg
