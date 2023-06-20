@@ -21,8 +21,8 @@ export default hopeTheme({
   // navbar
   navbar,
 
-  sidebar: false,
-  //sidebar,
+  // sidebar: false,
+  sidebar,
 
   footer: "闽ICP备2023005182号-1 闽公网安备 35020302035724号",
 

@@ -14,7 +14,7 @@ tagline: 随机漫步 | fool who wandered randomly
 highlights:
   - color: #f0f1f2
   - header: 目的地 | Destination
-    description: “要一直在路上 还要热泪盈眶”。对于“流浪”两字总是有着过于浪漫的遐想。总想着跑去谁也够不到的地方，没有时光流动的地方。最原始的流浪，不过只是向那乡愁的原型致敬吧。某段岁月里，我们的世界观好像是-只有做了自由的流浪者，才算是拥有完美无缺的人生。
+    description: “要一直在路上 还要热泪盈眶”。
     bgImage: /首页/目的地1加暗.jpg
     bgImageDark: /首页/目的地1加暗.jpg
     bgImageStyle:
@@ -29,9 +29,9 @@ highlights:
         icon: clipboard-check
         details: 神明
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
-      - title: 大阪
+      - title: 大阪 | Osaka
         icon: clipboard-check
-        details: 大阪
+        details: 到了大阪才发现时差有一个小时 <br> <br> [点击查看更多...]
         link: /destinations/oversea/osaka_1
       - title: 镰仓
         icon: clipboard-check
